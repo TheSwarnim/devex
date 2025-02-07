@@ -27,19 +27,19 @@ The `ai` command allows you to interact with an AI agent to generate commands or
     ```bash
     devex ai "generate a new go module"
     ```
-    ![Generate Go Module](artifacts/generate_go_module.png)
+    ![Generate Go Module](artifacts/ai-new-go-module.png)
 
 2. **Generate an AWS CLI command using the prod profile to copy a file from local to an S3 bucket**:
     ```bash
     devex ai "generate a new aws cli command using prod profile to copy file from local to s3 bucket"
     ```
-    ![Generate AWS CLI Command](artifacts/generate_aws_cli_command.png)
+    ![Generate AWS CLI Command](artifacts/ai-new-cli-command-copy-file-s3-bucket.png)
 
 3. **Generate code to read a file in Go**:
     ```bash
     devex ai "generate code to read a file in go"
     ```
-    ![Generate Go Code](artifacts/generate_go_code.png)
+    ![Generate Go Code](artifacts/ai-generate-code-to-read-a-file-in-go.png)
 
 ### Pritunl VPN Management
 
